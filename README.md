@@ -1,5 +1,4 @@
 # YouTube-Video-Performance-Analysis-for-Netflix-India
-# YouTube Video Performance Analysis for Netflix India
 
 ## Project Overview
 
